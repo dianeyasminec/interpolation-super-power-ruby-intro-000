@@ -1,4 +1,8 @@
 def display_rainbow(color_array)
-prints "(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])"
+prints color_array[0]
 end
 display_rainbow
+
+
+
+#['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
