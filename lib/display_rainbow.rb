@@ -1,4 +1,4 @@
-def display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+def display_rainbow(color_array)
 color= "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
 puts "(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])"
 end
